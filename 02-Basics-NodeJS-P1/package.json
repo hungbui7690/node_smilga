@@ -1,0 +1,19 @@
+{
+  "name": "01-basics-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "08_npm_info.js.js",
+  "scripts": {
+    "start": "node 08_npm_info.js",
+    "dev": "nodemon 08_npm_info.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
